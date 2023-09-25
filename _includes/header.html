@@ -96,6 +96,14 @@
               {% endfor -%}
               {%- if site.enable_darkmode %}
 
+              <!-- CV link -->
+              <li class="nav-item active">
+                <a class="nav-link" href="{{ '/assets/pdf/CV_Yuya_Shimizu.pdf' | prepend: site.baseurl | prepend: site.url }}"  target="_blank" rel= "noreferrer noopener">
+                  CV
+                <span class="sr-only">(current)</span>
+                </a>
+              </li>
+
               <!-- Toogle theme mode -->
               <li class="toggle-container">
                 <button id="light-toggle" title="Change theme">
