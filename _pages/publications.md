@@ -6,15 +6,16 @@ nav: true
 nav_order: 1
 ---
 
+#### Working Paper
+* "Optimal Testing in a Class of Nonregular Models," with <a href="https://personal.lse.ac.uk/otsu/">Taisuke Otsu</a>. <i>submitted</i> [<a href="https://www.sanken.keio.ac.jp/publication/KEO-dp/177/KEO-DP177.pdf">link</a>]
+
 #### Work in Progress
 * "Testing Inequalities Linear in Nuisance Parameters," with <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a href="https://users.ssc.wisc.edu/~xshi/">Xiaoxia Shi</a>.  [<a href="https://www.chamberlainseminar.org/past-seminars/fall-2023">presentation</a>]
-
-* "Optimal Testing in a Class of Nonregular Models," with <a href="https://personal.lse.ac.uk/otsu/">Taisuke Otsu</a>. [wp coming soon...]
 
 * "Nonparametric Regression under Cluster Sampling."
 
 #### Pre-Ph.D. Publication
-* "Doubly Robust-type Estimation of Population Moments and Parameters in Biased Sampling," with <a href="https://k-ris.keio.ac.jp/html/100000523_en.html">Takahiro Hoshino</a>, **Stat**, (2019). [<a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/sta4.241">paper</a>]
+* "Doubly Robust-type Estimation of Population Moments and Parameters in Biased Sampling," with <a href="https://k-ris.keio.ac.jp/html/100000523_en.html">Takahiro Hoshino</a>, **Stat**, (2019). [<a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/sta4.241">link</a>]
 
 #### Translation Work
 * Imbens, G. W. and D. B. Rubin / Shigemasu, K. and Hoshino, T. (supervisors of a translation),
