@@ -7,10 +7,13 @@ nav_order: 1
 ---
 
 #### Working Paper
-* "Optimal Testing in a Class of Nonregular Models," with <a href="https://personal.lse.ac.uk/otsu/">Taisuke Otsu</a>. [<a href="https://www.sanken.keio.ac.jp/publication/KEO-dp/177/KEO-DP177.pdf">wp</a>]
-
-
 * "Nonparametric Regression under Cluster Sampling." [<a href="https://arxiv.org/abs/2403.04766">wp</a>]
+  <ul>
+  <li>Revision requested at <b>Journal of Econometrics</b></li>
+  <li>Selected for the <b>Kanematsu Prize 2023</b></li>
+  </ul>
+
+* "Optimal Testing in a Class of Nonregular Models," with <a href="https://personal.lse.ac.uk/otsu/">Taisuke Otsu</a>. [<a href="https://www.sanken.keio.ac.jp/publication/KEO-dp/177/KEO-DP177.pdf">wp</a>]
 
 #### Work in Progress
 * "Testing Inequalities Linear in Nuisance Parameters," with <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a href="https://users.ssc.wisc.edu/~xshi/">Xiaoxia Shi</a>.  [<a href="https://www.chamberlainseminar.org/past-seminars/fall-2023">presentation</a>]
