@@ -24,4 +24,4 @@ nav_order: 1
 #### Translation Work
 * Imbens, G. W. and D. B. Rubin / Shigemasu, K. and Hoshino, T. (supervisors of a translation),
 “Causal Inference in Statistics, Social, and Biomedical Sciences: An Introduction,”
-(translation into Japanese; responsible for Chapter 15 and 16), Asakura Publishing, (2023). [<a href="https://www.asakura.co.jp/detail.php?book_code=12291">link</a>]
+(translation into Japanese; responsible for Chapters 15 and 16), Asakura Publishing, (2023). [<a href="https://www.asakura.co.jp/detail.php?book_code=12291">link</a>]
