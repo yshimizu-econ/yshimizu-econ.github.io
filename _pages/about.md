@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a third-year Ph.D. student at the University of Wisconsin-Madison. My research interests are primarily in Econometrics and its application.
+Hi! I am a fourth-year Ph.D. student at the University of Wisconsin-Madison. My research interests are primarily in Econometrics and its application.
 
 Prior to joining UW-Madison, I obtained my B.A. and M.A. degrees in Economics from Keio University, Japan.
 
