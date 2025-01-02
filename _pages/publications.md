@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 #### Working Paper
-* "Nonparametric Regression under Cluster Sampling." [<a href="https://www.rieb.kobe-u.ac.jp/academic/ra/dp/English/DP2024-20.pdf">wp</a>]<!-- [<a href="https://arxiv.org/abs/2403.04766">wp</a>] -->
+* "Nonparametric Regression under Cluster Sampling." [<a href="https://arxiv.org/abs/2403.04766">wp</a>]
   <ul>
   <li>Revision requested at <b>Journal of Econometrics</b></li>
   <li>Selected for the <b>Kanematsu Prize 2023</b></li>
