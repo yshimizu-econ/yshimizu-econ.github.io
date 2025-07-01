@@ -53,20 +53,25 @@ with <a href="https://kensakamot.github.io/">Kensuke Sakamoto</a>.<br>
 
 
 
+
+<br>
+
+
+
+
+
 #### <b>Work in Progress</b>
 <h5>
   Testing Inequalities Linear in Nuisance Parameters
 </h5>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
 With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a href="https://users.ssc.wisc.edu/~xshi/">Xiaoxia Shi</a>.<br>
-[Draft coming soon]<be>
+[Draft coming soon]<br>
 
 
 
 
 
-<br>
-<br>
 <br>
 
 
@@ -86,8 +91,6 @@ With <a href="https://k-ris.keio.ac.jp/html/100000523_en.html">Takahiro Hoshino<
 
 
 
-<br>
-<br>
 <br>
 
 
