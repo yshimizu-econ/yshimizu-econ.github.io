@@ -16,7 +16,7 @@ nav_order: 3
 #### Keio University (TA)
 * Artificial Intelligence and Industrial Economy (Undergraduate), Spring 2021.
 
-* Independent Research Project C (Undergraduate thesis mentor for seven students), Spring 2018, Fall 2018.
+* Independent Research Project C (Undergraduate thesis mentor for 7 students), Spring 2018, Fall 2018.
 
 #### Cabinet Office, Japan (TA)
 * Statistics and Data Analysis for Policy Making” (Graduate-level), Summer 2018.
