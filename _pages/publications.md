@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-#### Working Paper
+#### <b>Working Paper</b>
 <h5>
   <a href="https://arxiv.org/abs/2403.04766">Nonparametric Regression under Cluster Sampling</a>
 </h5>
@@ -53,17 +53,27 @@ with <a href="https://kensakamot.github.io/">Kensuke Sakamoto</a>.<br>
 
 
 
-#### Work in Progress
+#### <b>Work in Progress</b>
 <h5>
   Testing Inequalities Linear in Nuisance Parameters
 </h5>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
 With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a href="https://users.ssc.wisc.edu/~xshi/">Xiaoxia Shi</a>.<br>
-[Draft coming soon]<br>
+[Draft coming soon]<be>
 
 
 
-#### Pre-Ph.D. Publication
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+#### <b>Pre-Ph.D. Publication</b>
 <h5>
   <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/sta4.241">Doubly Robust-type Estimation of Population Moments and Parameters in Biased Sampling</a>
 </h5>
@@ -73,9 +83,20 @@ With <a href="https://k-ris.keio.ac.jp/html/100000523_en.html">Takahiro Hoshino<
 
 
 
-#### Translation Work
+
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+#### <b>Translation Work</b>
 <h5>
-  Imbens, G. W. and D. B. Rubin / Shigemasu, K. and Hoshino, T. (supervisors of a translation),
+  Imbens, G. W. and D. B. Rubin,
   “Causal Inference in Statistics, Social, and Biomedical Sciences: An Introduction,”
   (<a href="https://www.asakura.co.jp/detail.php?book_code=12291">translation into Japanese</a>; responsible for Chapters 15 and 16)
 </h5>
