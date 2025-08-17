@@ -38,14 +38,15 @@ with <a href="https://personal.lse.ac.uk/otsu/">Taisuke Otsu</a>.<br>
 
 
 <h5>
-  <a href="https://arxiv.org/abs/2506.22989">Design-Based and Network Sampling-Based Uncertainties in Network Experiments</a>
+     <a href="https://app.oxfordabstracts.com/content/events/73643/submitters/868797/submissions/fe-f8213a52-f1fc-4ce8-b8c6-933cbdf0f3a9/questions/95896/file/ef1112c1-493c-4bb2-86b7-6d75b88a1851.pdf">Design-Based and Network Sampling-Based Uncertainties in Network Experiments</a> 
+<!--   <a href="https://arxiv.org/abs/2506.22989">Design-Based and Network Sampling-Based Uncertainties in Network Experiments</a> -->
 </h5>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
 with <a href="https://kensakamot.github.io/">Kensuke Sakamoto</a>.<br>
 <details>
   <summary>Abstract</summary>
   <p>
-    OLS estimators are widely used in network experiments to estimate spillover effects via regressions on exposure mappings that summarize treatment and network structure. We study the causal interpretation and inference of such OLS estimators when both design-based uncertainty in treatment assignment and sampling-based uncertainty in network links are present. We show that correlations among elements of the exposure mapping can contaminate the OLS estimand, preventing it from aggregating heterogeneous spillover effects for clear causal interpretation. We derive the estimator's asymptotic distribution and propose a network-robust variance estimator. Simulations and an empirical application reveal sizable contamination bias and inflated spillover estimates.
+    Ordinary least squares (OLS) estimators are widely used in network experiments to estimate spillover effects. We study the causal interpretation of, and inference for the OLS estimator under both design-based uncertainty from random treatment assignment and sampling-based uncertainty in network links. We show that correlations among regressors that capture the exposure to neighbors' treatments can induce contamination bias, preventing the OLS from aggregating heterogeneous spillover effects for clear causal interpretation. We derive the OLS estimator's asymptotic distribution and propose a network-robust variance estimator. Simulations and an empirical application demonstrate that contamination bias can be substantial, leading to inflated spillover estimates.
   </p>
 </details>
 <br>
