@@ -38,8 +38,7 @@ with <a href="https://personal.lse.ac.uk/otsu/">Taisuke Otsu</a>.<br>
 
 
 <h5>
-     <a href="https://app.oxfordabstracts.com/content/events/73643/submitters/868797/submissions/fe-f8213a52-f1fc-4ce8-b8c6-933cbdf0f3a9/questions/95896/file/ef1112c1-493c-4bb2-86b7-6d75b88a1851.pdf">Design-Based and Network Sampling-Based Uncertainties in Network Experiments</a> 
-<!--   <a href="https://arxiv.org/abs/2506.22989">Design-Based and Network Sampling-Based Uncertainties in Network Experiments</a> -->
+     <a href="https://arxiv.org/abs/2506.22989">Design-Based and Network Sampling-Based Uncertainties in Network Experiments</a> 
 </h5>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
 with <a href="https://kensakamot.github.io/">Kensuke Sakamoto</a>.<br>
