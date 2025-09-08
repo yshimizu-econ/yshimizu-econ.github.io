@@ -10,7 +10,7 @@ nav_order: 1
 <h5>
   <a href="https://arxiv.org/abs/2403.04766">Nonparametric Regression under Cluster Sampling</a>
 </h5>
-<em>R&R at Journal of Econometrics</em> <br>
+<em>Conditionally Accepted at Journal of Econometrics</em> <br>
 <em>Kanematsu Prize 2023</em> <br>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
 <details>
