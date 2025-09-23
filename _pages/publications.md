@@ -8,21 +8,6 @@ nav_order: 1
 
 #### <b>Working Paper</b>
 <h5>
-  <a href="https://arxiv.org/abs/2403.04766">Nonparametric Regression under Cluster Sampling</a>
-</h5>
-<em>Conditionally Accepted at Journal of Econometrics</em> <br>
-<em>Kanematsu Prize 2023</em> <br>
-<!-- [<a href="https://github.com/">R Package</a>]<br> -->
-<details>
-  <summary>Abstract</summary>
-  <p>
-    This paper develops a general asymptotic theory for nonparametric kernel regression in the presence of cluster dependence. We examine nonparametric density estimation, Nadaraya-Watson kernel regression, and local linear estimation. Our theory accommodates growing and heterogeneous cluster sizes. We derive asymptotic conditional bias and variance, establish uniform consistency, and prove asymptotic normality. Our findings reveal that under heterogeneous cluster sizes, the asymptotic variance includes a new term reflecting within-cluster dependence, which is overlooked when cluster sizes are presumed to be bounded. We propose valid approaches for bandwidth selection and inference, introduce estimators of the asymptotic variance, and demonstrate their consistency. In simulations, we verify the effectiveness of the cluster-robust bandwidth selection and show that the derived cluster-robust confidence interval improves the coverage ratio. We illustrate the application of these methods using a policy-targeting dataset in development economics.
-  </p>
-</details>
-<br>
-
-
-<h5>
   <a href="https://arxiv.org/abs/2403.16413">Optimal Testing in a Class of Nonregular Models</a>
 </h5>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
@@ -74,6 +59,30 @@ With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a
 
 <br>
 
+
+
+
+
+#### <b>Publication</b>
+<h5>
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304407625001563?dgcid=author">Nonparametric Regression under Cluster Sampling</a>
+</h5>
+<em>Forthcoming at Journal of Econometrics</em> <br>
+<em>Kanematsu Prize 2023</em> <br>
+[<a href="https://arxiv.org/abs/2403.04766">arXiv</a> | <a href="https://github.com/yshimizu-econ/Nonparametric-Regression-under-Cluster-Sampling">R code</a>]<br>
+<details>
+  <summary>Abstract</summary>
+  <p>
+    This paper develops a general asymptotic theory for nonparametric kernel regression in the presence of cluster dependence. We examine nonparametric density estimation, Nadaraya-Watson kernel regression, and local linear estimation. Our theory accommodates growing and heterogeneous cluster sizes. We derive asymptotic conditional bias and variance, establish uniform consistency, and prove asymptotic normality. Our findings reveal that under heterogeneous cluster sizes, the asymptotic variance includes a new term reflecting within-cluster dependence, which is overlooked when cluster sizes are presumed to be bounded. We propose valid approaches for bandwidth selection and inference, introduce estimators of the asymptotic variance, and demonstrate their consistency. In simulations, we verify the effectiveness of the cluster-robust bandwidth selection and show that the derived cluster-robust confidence interval improves the coverage ratio. We illustrate the application of these methods using a policy-targeting dataset in development economics.
+  </p>
+</details>
+<br>
+
+
+
+
+
+<br>
 
 
 
