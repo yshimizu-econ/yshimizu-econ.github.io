@@ -15,7 +15,7 @@ with <a href="https://personal.lse.ac.uk/otsu/">Taisuke Otsu</a>.<br>
 <details>
   <summary>Abstract</summary>
   <p>
-    This paper studies optimal hypothesis testing for nonregular statistical models with parameter-dependent support. We consider both one-sided and two-sided hypothesis testing and develop asymptotically uniformly most powerful tests based on the likelihood ratio process. The proposed one-sided test involves randomization to achieve asymptotic size control, some tuning constant to avoid discontinuities in the limiting likelihood ratio process, and a user-specified alternative hypothetical value to achieve the asymptotic optimality. Our two-sided test becomes asymptotically uniformly most powerful without imposing further restrictions such as unbiasedness. Simulation results illustrate desirable power properties of the proposed tests.
+    This paper studies optimal hypothesis testing for nonregular econometric models with parameter-dependent support. We consider both one-sided and two-sided hypothesis testing and develop asymptotically uniformly most powerful tests based on a limit experiment. Our two-sided test becomes asymptotically uniformly most powerful without imposing further restrictions such as unbiasedness, and can be inverted to construct a confidence set for the nonregular parameter. Simulation results illustrate desirable finite sample properties of the proposed tests.
   </p>
 </details>
 <br>
