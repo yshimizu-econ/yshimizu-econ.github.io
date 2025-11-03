@@ -7,15 +7,16 @@ nav_order: 1
 ---
 
 #### <b>Working Paper</b>
+
 <h5>
-  <a href="https://arxiv.org/abs/2403.16413">Optimal Testing in a Class of Nonregular Models</a>
+     <a href="https://arxiv.org/abs/2510.27633">Testing Inequalities Linear in Nuisance Parameters</a> 
 </h5>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
-with <a href="https://personal.lse.ac.uk/otsu/">Taisuke Otsu</a>.<br>
+With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a href="https://users.ssc.wisc.edu/~xshi/">Xiaoxia Shi</a>.<br>
 <details>
   <summary>Abstract</summary>
   <p>
-    This paper studies optimal hypothesis testing for nonregular econometric models with parameter-dependent support. We consider both one-sided and two-sided hypothesis testing and develop asymptotically uniformly most powerful tests based on a limit experiment. Our two-sided test becomes asymptotically uniformly most powerful without imposing further restrictions such as unbiasedness, and can be inverted to construct a confidence set for the nonregular parameter. Simulation results illustrate desirable finite sample properties of the proposed tests.
+    This paper proposes a new test for inequalities that are linear in possibly partially identified nuisance parameters. This type of hypothesis arises in a broad set of problems, including subvector inference for linear unconditional moment (in)equality models, specification testing of such models, and inference for parameters bounded by linear programs. The new test uses a two-step test statistic and a chi-squared critical value with data-dependent degrees of freedom that can be calculated by an elementary formula. Its simple structure and tuning-parameter-free implementation make it attractive for practical use. We establish uniform asymptotic validity of the test, demonstrate its finite-sample size and power in simulations, and illustrate its use in an empirical application that analyzes women's labor supply in response to a welfare policy reform.
   </p>
 </details>
 <br>
@@ -37,6 +38,29 @@ with <a href="https://kensakamot.github.io/">Kensuke Sakamoto</a>.<br>
 
 
 
+<h5>
+  <a href="https://arxiv.org/abs/2403.16413">Optimal Testing in a Class of Nonregular Models</a>
+</h5>
+<!-- [<a href="https://github.com/">R Package</a>]<br> -->
+with <a href="https://personal.lse.ac.uk/otsu/">Taisuke Otsu</a>.<br>
+<details>
+  <summary>Abstract</summary>
+  <p>
+    This paper studies optimal hypothesis testing for nonregular econometric models with parameter-dependent support. We consider both one-sided and two-sided hypothesis testing and develop asymptotically uniformly most powerful tests based on a limit experiment. Our two-sided test becomes asymptotically uniformly most powerful without imposing further restrictions such as unbiasedness, and can be inverted to construct a confidence set for the nonregular parameter. Simulation results illustrate desirable finite sample properties of the proposed tests.
+  </p>
+</details>
+<br>
+
+
+
+
+
+
+
+
+
+
+
 
 
 <br>
@@ -45,11 +69,11 @@ with <a href="https://kensakamot.github.io/">Kensuke Sakamoto</a>.<br>
 
 
 
-#### <b>Work in Progress</b>
+<!--#### <b>Work in Progress</b>
 <h5>
   Testing Inequalities Linear in Nuisance Parameters
 </h5>
-<!-- [<a href="https://github.com/">R Package</a>]<br> -->
+[<a href="https://github.com/">R Package</a>]<br>
 With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a href="https://users.ssc.wisc.edu/~xshi/">Xiaoxia Shi</a>.<br>
 [Draft coming soon]<br>
 
@@ -58,7 +82,7 @@ With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a
 
 
 <br>
-
+-->
 
 
 
