@@ -89,9 +89,9 @@ With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a
 
 #### <b>Publication</b>
 <h5>
-  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304407625001563?dgcid=author">Nonparametric Regression under Cluster Sampling</a>
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304407625001563">Nonparametric Regression under Cluster Sampling</a>
 </h5>
-<em>Forthcoming at Journal of Econometrics</em> <br>
+<em>Journal of Econometrics (2025)</em> <br>
 <em>Kanematsu Prize 2023</em> <br>
 [<a href="https://arxiv.org/abs/2403.04766">arXiv</a> | <a href="https://github.com/yshimizu-econ/Nonparametric-Regression-under-Cluster-Sampling">R code</a>]<br>
 <details>
