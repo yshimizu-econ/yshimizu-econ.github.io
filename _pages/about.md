@@ -23,8 +23,8 @@ Prior to joining UW-Madison, I obtained my B.A. and M.A. degrees in Economics fr
 
 
 
-* **Primary Interest:** Econometrics
+* **Primary Interest:** Econometrics, Causal Inference
 
-* **Secondary Interest:** Causal Inference, Industrial Organization
+* **Secondary Interest:** Machine Learning, Industrial Organization
 
 Email: yuya.shimizu[at mark]wisc.edu
