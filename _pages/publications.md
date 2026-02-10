@@ -72,20 +72,19 @@ with <a href="https://personal.lse.ac.uk/otsu/">Taisuke Otsu</a>.<br>
 
 
 
-<!--#### <b>Work in Progress</b>
+#### <b>Work in Progress</b>
 <h5>
-  Testing Inequalities Linear in Nuisance Parameters
+  Econometric Usage of Pre-trained Deep Learning Models for Unstructured Data
 </h5>
-[<a href="https://github.com/">R Package</a>]<br>
+<!--[<a href="https://github.com/">R Package</a>]<br>
 With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a href="https://users.ssc.wisc.edu/~xshi/">Xiaoxia Shi</a>.<br>
 [Draft coming soon]<br>
-
+-->
 
 
 
 
 <br>
--->
 
 
 
