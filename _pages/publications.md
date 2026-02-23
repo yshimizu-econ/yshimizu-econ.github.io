@@ -26,6 +26,22 @@ with <a href="https://kensakamot.github.io/">Kensuke Sakamoto</a>.<br>
 
 
 <h5>
+  <a href="https://arxiv.org/abs/2403.16413">Optimal Testing in a Class of Nonregular Models</a>
+</h5>
+<!-- [<a href="https://github.com/">R Package</a>]<br> -->
+with <a href="https://personal.lse.ac.uk/otsu/">Taisuke Otsu</a>.<br>
+<em>Revision Requested at Econometric Theory</em> <br>
+<details>
+  <summary>Abstract</summary>
+  <p>
+    This paper studies optimal hypothesis testing for nonregular econometric models with parameter-dependent support. We consider both one-sided and two-sided hypothesis testing and develop asymptotically uniformly most powerful tests based on a limit experiment. Our two-sided test becomes asymptotically uniformly most powerful without imposing further restrictions such as unbiasedness, and can be inverted to construct a confidence set for the nonregular parameter. Simulation results illustrate desirable finite sample properties of the proposed tests.
+  </p>
+</details>
+<br>
+
+
+
+<h5>
      <a href="https://arxiv.org/abs/2510.27633">Testing Inequalities Linear in Nuisance Parameters</a> 
 </h5>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
@@ -38,21 +54,6 @@ With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a
 </details>
 <br>
 
-
-
-
-<h5>
-  <a href="https://arxiv.org/abs/2403.16413">Optimal Testing in a Class of Nonregular Models</a>
-</h5>
-<!-- [<a href="https://github.com/">R Package</a>]<br> -->
-with <a href="https://personal.lse.ac.uk/otsu/">Taisuke Otsu</a>.<br>
-<details>
-  <summary>Abstract</summary>
-  <p>
-    This paper studies optimal hypothesis testing for nonregular econometric models with parameter-dependent support. We consider both one-sided and two-sided hypothesis testing and develop asymptotically uniformly most powerful tests based on a limit experiment. Our two-sided test becomes asymptotically uniformly most powerful without imposing further restrictions such as unbiasedness, and can be inverted to construct a confidence set for the nonregular parameter. Simulation results illustrate desirable finite sample properties of the proposed tests.
-  </p>
-</details>
-<br>
 
 
 
