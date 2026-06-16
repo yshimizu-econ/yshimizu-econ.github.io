@@ -75,7 +75,7 @@ With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a
 
 #### <b>Work in Progress</b>
 <h5>
-  Econometric Usage of Pre-trained Deep Learning Models for Unstructured Data
+  Econometrics with Pre-Trained Embeddings for Unstructured Data [draft coming soon]
 </h5>
 <!--[<a href="https://github.com/">R Package</a>]<br>
 With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a href="https://users.ssc.wisc.edu/~xshi/">Xiaoxia Shi</a>.<br>
