@@ -9,8 +9,9 @@ nav_order: 1
 #### <b>Working Paper</b>
 
 <h5>
-     <a href="https://yshimizu-econ.github.io/assets/pdf/transfer.pdf">Econometrics with Pre-Trained Embeddings for Unstructured Data</a> <bf>[Empirical Application Work in Progress]</bf>
+     <a href="https://yshimizu-econ.github.io/assets/pdf/transfer.pdf">Econometrics with Pre-Trained Embeddings for Unstructured Data</a>
 </h5>
+[<b>Empirical Application Work in Progress</b>]<br>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
 [<a href="https://arxiv.org/abs/2607.17378">arXiv</a>]<br>
 <details>
