@@ -9,6 +9,20 @@ nav_order: 1
 #### <b>Working Paper</b>
 
 <h5>
+     <a href="https://yshimizu-econ.github.io/assets/pdf/transfer.pdf">Econometrics with Pre-Trained Embeddings for Unstructured Data</a> <bf>[Empirical Application Work in Progress]</bf>
+</h5>
+<!-- [<a href="https://github.com/">R Package</a>]<br> -->
+[<a href="https://arxiv.org/abs/2607.17378">arXiv</a>]<br>
+<details>
+  <summary>Abstract</summary>
+  <p>
+    Unstructured data, such as images and text, are increasingly used in empirical economics. Since training machine-learning models on unstructured data is costly, economists often use off-the-shelf pre-trained deep learning models developed by computer scientists to extract embeddings, which are then used as covariates in target economic analyses. Despite the popularity of this practice, its theoretical foundations remain limited. There are two main difficulties. First, the pre-trained model is usually trained on a different dataset and for a different task. Consequently, it is unclear when such a model can be used reliably for the target task. Second, the embedding function is subject to an identification problem, which makes it difficult to analyze the estimation error of the embedding function and its effect on the target task. In this paper, we provide sufficient conditions to overcome these difficulties and derive the convergence rate of machine learning models with pre-trained embeddings. We illustrate the theory through double machine learning applications for estimating parameters of interest, such as partially linear regression with unstructured controls, price elasticity in demand estimation considering the product quality measured by images and text, missing data imputation with unstructured data, and the average treatment effect with unstructured confounders.
+  </p>
+</details>
+<br>
+
+
+<h5>
      <a href="https://arxiv.org/abs/2506.22989">Design-Based and Network Sampling-Based Uncertainties in Network Experiments</a> 
 </h5>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
@@ -72,12 +86,12 @@ With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a
 
 
 
-
+<!--
 #### <b>Work in Progress</b>
 <h5>
   Econometrics with Pre-Trained Embeddings for Unstructured Data [draft coming soon]
 </h5>
-<!--[<a href="https://github.com/">R Package</a>]<br>
+[<a href="https://github.com/">R Package</a>]<br>
 With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a href="https://users.ssc.wisc.edu/~xshi/">Xiaoxia Shi</a>.<br>
 [Draft coming soon]<br>
 -->
