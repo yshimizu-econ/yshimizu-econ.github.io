@@ -13,7 +13,7 @@ nav_order: 1
 </h5>
 [<b>Empirical Application in Progress</b>]<br>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
-[<a href="https://arxiv.org/abs/2607.17378">arXiv</a>]<br>
+<!-- [<a href="https://arxiv.org/abs/2607.17378">arXiv</a>]<br> -->
 <details>
   <summary>Abstract</summary>
   <p>
