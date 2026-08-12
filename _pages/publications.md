@@ -12,7 +12,7 @@ nav_order: 1
      <a href="https://yshimizu-econ.github.io/assets/pdf/transfer.pdf">Econometrics with Pre-Trained Embeddings for Unstructured Data</a>
 </h5>
 [<b>Empirical Application in Progress</b>]<br>
-<small style="color: gray;">conferences: Econometric Society Interdisciplinary Frontiers Conference on Economics and AI+ML (Ithaca), Chicago Booth AI and Economics Summer Conference, Midwest Econometrics Group (Cincinnati, scheduled), Canadian Econometrics Study Group (Vancouver, scheduled), Southern Economic Association (Houston, scheduled)</small><br>
+<small style="color: gray;">presentation: Econometric Society Interdisciplinary Frontiers Conference on Economics and AI+ML (Ithaca), Chicago Booth AI and Economics Summer Conference, Midwest Econometrics Group (Cincinnati, scheduled), Canadian Econometrics Study Group (Vancouver, scheduled), Southern Economic Association (Houston, scheduled)</small><br>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
 <!-- [<a href="https://arxiv.org/abs/2607.17378">arXiv</a>]<br> -->
 <details>
