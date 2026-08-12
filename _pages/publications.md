@@ -12,6 +12,7 @@ nav_order: 1
      <a href="https://yshimizu-econ.github.io/assets/pdf/transfer.pdf">Econometrics with Pre-Trained Embeddings for Unstructured Data</a>
 </h5>
 [<b>Empirical Application in Progress</b>]<br>
+<small style="color: gray;">conferences: Econometric Society Interdisciplinary Frontiers Conference on Economics and AI+ML (Ithaca), Chicago Booth AI and Economics Summer Conference, Midwest Econometrics Group (Cincinnati, scheduled), Canadian Econometrics Study Group (Vancouver, scheduled), Southern Economic Association (Houston, scheduled)</small><br>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
 <!-- [<a href="https://arxiv.org/abs/2607.17378">arXiv</a>]<br> -->
 <details>
@@ -155,5 +156,4 @@ With <a href="https://k-ris.keio.ac.jp/html/100000523_en.html">Takahiro Hoshino<
   (<a href="https://www.asakura.co.jp/detail.php?book_code=12291">translation into Japanese</a>; responsible for Chapters 15 and 16)
 </h5>
 <em>Asakura Publishing (2023)</em> <br>
-
 
