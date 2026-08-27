@@ -6,7 +6,7 @@ subtitle: <a href='https://econ.wisc.edu/'>University of Wisconsin-Madison, Depa
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   address: #>
     #<p>yuya.shimizu [at mark] wisc.edu</p>
