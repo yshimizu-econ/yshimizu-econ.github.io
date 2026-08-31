@@ -22,8 +22,8 @@ Hi! I am a Ph.D. student at the University of Wisconsin-Madison. My research int
 **I will be on the job market for the 2026-2027 academic year.**
 
 
-* **Primary Interest:** Econometrics, Causal Inference
+* **Primary Interests:** Econometrics, Causal Inference
 
-* **Secondary Interest:** Machine Learning, Industrial Organization
+* **Secondary Interests:** Machine Learning, Industrial Organization
 
 Email: yuya.shimizu[at mark]wisc.edu
