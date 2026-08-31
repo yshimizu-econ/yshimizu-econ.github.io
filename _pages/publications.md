@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-#### <b>Working Paper</b>
+#### <b>Working Papers</b>
 
 <h5>
      <a href="https://yshimizu-econ.github.io/assets/pdf/transfer.pdf">Econometrics with Pre-Trained Embeddings for Unstructured Data</a>
@@ -106,7 +106,7 @@ With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a
 
 
 
-#### <b>Publication</b>
+#### <b>Publications</b>
 <h5>
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304407625001563">Nonparametric Regression under Cluster Sampling</a>
 </h5>
@@ -152,7 +152,7 @@ With <a href="https://k-ris.keio.ac.jp/html/100000523_en.html">Takahiro Hoshino<
 #### <b>Translation Work</b>
 <h5>
   Imbens, G. W. and D. B. Rubin,
-  “Causal Inference in Statistics, Social, and Biomedical Sciences: An Introduction,”
+  “Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction,”
   (<a href="https://www.asakura.co.jp/detail.php?book_code=12291">translation into Japanese</a>; responsible for Chapters 15 and 16)
 </h5>
 <em>Asakura Publishing (2023)</em> <br>
