@@ -9,7 +9,7 @@ nav_order: 1
 #### <b>Working Papers</b>
 
 <h5>
-     <a href="https://yshimizu-econ.github.io/assets/pdf/transfer.pdf">Econometrics with Pre-Trained Embeddings for Unstructured Data</a>
+     <a href="https://yshimizu-econ.github.io/assets/pdf/Shimizu_JMP_Embedding.pdf">Econometrics with Pre-Trained Embeddings for Unstructured Data</a>
 </h5>
 [<b>Empirical Application in Progress</b>]<br>
 <small style="color: gray;">presentation: Econometric Society Interdisciplinary Frontiers Conference on Economics and AI+ML (Ithaca), Chicago Booth AI and Economics Summer Conference, Midwest Econometrics Group (Cincinnati, scheduled), Canadian Econometrics Study Group (Vancouver, scheduled), Southern Economic Association (Houston, scheduled)</small><br>
