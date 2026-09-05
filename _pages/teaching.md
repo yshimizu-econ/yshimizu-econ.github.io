@@ -22,7 +22,7 @@ nav_order: 3
 <br>
 
 #### University of Wisconsin-Madison (Grader)
-* Econ 711: Economic Theory- Microeconomics Sequence (Ph.D. Microeconomics), Fall 2022.
+* Econ 711: Economic Theory-Microeconomics (Ph.D. Microeconomics), Fall 2022.
 <br> 
 
 * Econ 709: Economic Statistics and Econometrics I (Ph.D. Econometrics), Fall 2022.
