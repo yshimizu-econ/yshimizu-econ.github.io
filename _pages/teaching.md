@@ -21,6 +21,16 @@ nav_order: 3
 <em>Juli Plant Grainger Outstanding Teaching Assistant Award; Distinguished Teaching Assistant, Department of Economics</em>
 <br>
 
+#### University of Wisconsin-Madison (Grader)
+* Econ 711: Economic Theory- Microeconomics Sequence (Ph.D. Microeconomics), Fall 2022.
+<br> 
+
+* Econ 709: Economic Statistics and Econometrics I (Ph.D. Econometrics), Fall 2022.
+<br> 
+
+* Econ 710: Economic Statistics and Econometrics II (Ph.D. Econometrics), Spring 2023.
+<br> 
+
 #### Keio University (TA)
 * Artificial Intelligence and Industrial Economy (Undergraduate), Spring 2021.
 
