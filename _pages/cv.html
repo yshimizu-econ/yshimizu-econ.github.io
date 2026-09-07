@@ -1,0 +1,25 @@
+---
+layout: null
+permalink: /cv/
+title: CV
+nav: false
+sitemap: false
+redirect_to: /assets/pdf/CV_Yuya_Shimizu.pdf
+---
+{%- assign cv_url = page.redirect_to | relative_url -%}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CV | Yuya Shimizu</title>
+    <link rel="canonical" href="{{ page.redirect_to | absolute_url }}">
+    <meta http-equiv="refresh" content="0; url={{ cv_url }}">
+    <script>
+      window.location.replace({{ cv_url | jsonify }} + window.location.search + window.location.hash);
+    </script>
+  </head>
+  <body>
+    <p><a href="{{ cv_url }}">Open Yuya Shimizu's CV (PDF)</a>.</p>
+  </body>
+</html>
