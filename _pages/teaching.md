@@ -31,6 +31,8 @@ nav_order: 3
 * Econ 710: Economic Statistics and Econometrics II (Ph.D. Econometrics), Spring 2023.
 <br> 
 
+* Econ 899: Market Structure & Competition (Master, Industrial Organization), Fall 2026.
+
 #### Keio University (TA)
 * Artificial Intelligence and Industrial Economy (Undergraduate), Spring 2021.
 
