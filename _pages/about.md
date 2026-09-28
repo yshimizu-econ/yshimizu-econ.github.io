@@ -21,7 +21,7 @@ Hi! I am a Ph.D. candidate at the University of Wisconsin-Madison. My research i
 
 **I will be on the job market for the 2026-2027 academic year.**
 
-In my <a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" style="text-decoration: underline;">Job Market Paper</a>, I develop theoretical foundations for incorporating numerical representations of images and text into econometric models.
+In my <a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" style="text-decoration: underline;">Job Market Paper</a>, I develop theoretical foundations for incorporating numerical representations of images and text into econometric models and propose a novel bootstrap test for the workflow.
 
 <!--
 * **Primary Interests:** Econometrics, Causal Inference, Machine Learning
@@ -36,4 +36,4 @@ In my <a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" tar
 
 Email: [yuya.shimizu@wisc.edu](mailto:yuya.shimizu@wisc.edu)
 
-<p>[<a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">JMP</a> &#124; <a href="{{ '/assets/pdf/CV_Yuya_Shimizu.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">CV</a> &#124; <a href="https://scholar.google.com/citations?user=YB8k6cEAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</p>
+<p>Links: <a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">JMP</a> &#124; <a href="{{ '/assets/pdf/CV_Yuya_Shimizu.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">CV</a> &#124; <a href="https://scholar.google.com/citations?user=YB8k6cEAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a></p>
