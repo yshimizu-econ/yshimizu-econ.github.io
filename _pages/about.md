@@ -24,6 +24,11 @@ Hi! I am a Ph.D. candidate at the University of Wisconsin-Madison. My research i
 * **Primary Interests:** Econometrics, Causal Inference, Machine Learning
 
 * **Secondary Interests:** Applied Microeconomics, Industrial Organization
+<br>
+
+
+
+<br>
 
 Email: [yuya.shimizu@wisc.edu](mailto:yuya.shimizu@wisc.edu)
 
