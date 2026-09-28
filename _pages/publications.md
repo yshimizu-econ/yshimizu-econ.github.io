@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-#### <b>Working Papers</b>
+#### <b>Job Market Paper</b>
 
 <h5>
      <a href="https://yshimizu-econ.github.io/assets/pdf/Shimizu_JMP_Embedding.pdf">Econometrics with Pre-Trained Embeddings for Unstructured Data</a>
@@ -18,11 +18,17 @@ nav_order: 1
 <details>
   <summary>Abstract</summary>
   <p>
-    Unstructured data, such as images and text, are increasingly used in empirical economics. Since training machine-learning models on unstructured data is costly, economists often use off-the-shelf pre-trained deep learning models developed by computer scientists to extract embeddings, which are then used as covariates in target economic analyses. Despite the popularity of this practice, its theoretical foundations remain limited. There are two main difficulties. First, the pre-trained model is usually trained on a different dataset and for a different task. Consequently, it is unclear when such a model can be used reliably for the target task. Second, the embedding function is subject to an identification problem, which makes it difficult to analyze the estimation error of the embedding function and its effect on the target task. In this paper, we provide sufficient conditions to overcome these difficulties and derive the convergence rate of machine learning models with pre-trained embeddings. We illustrate the theory through double machine learning applications for estimating parameters of interest, such as partially linear regression with unstructured controls, price elasticity in demand estimation considering the product quality measured by images and text, missing data imputation with unstructured data, and the average treatment effect with unstructured confounders.
+    Unstructured data, such as images and text, are increasingly used in empirical economics. Since training machine-learning models on unstructured data is costly, economists often use off-the-shelf pre-trained deep learning models developed by computer scientists to extract embeddings, which are then used as covariates in target economic analyses. Despite the popularity of this practice, its theoretical foundations remain limited. There are two main difficulties. First, pre-trained models are typically trained on different datasets and for different tasks, making it unclear when they can be used reliably for the target task. Second, the embedding function is subject to an identification problem, complicating the analysis of its estimation error and the effect of that error on the target task. We provide sufficient conditions to overcome these difficulties. A key condition, which we call transferability, governs the convergence rate we derive. This rate depends on three components: target estimation error with the pre-trained embeddings treated as standard covariates, source estimation error adjusted for the strength of transferability, and approximation error of the target model class using embeddings as inputs. We also extend this analysis for high-dimensional embeddings. To assess transferability, we develop a computationally feasible bootstrap test that does not require re-estimating the embeddings and nuisance functions. Our theory applies to a wide range of double machine learning applications, including partially linear regression with unstructured controls, price elasticity estimation in demand models accounting for product quality measured by images and text, missing-data imputation using unstructured data, and average treatment effect estimation with unstructured confounders. As an empirical application, we estimate the labor supply elasticity on Amazon Mechanical Turk, an online labor market platform, using job-description embeddings as controls.
   </p>
 </details>
 <br>
 
+
+
+
+
+
+#### <b>Working Papers</b>
 
 <h5>
      <a href="https://arxiv.org/abs/2506.22989">Design-Based and Network Sampling-Based Uncertainties in Network Experiments</a> 
@@ -36,6 +42,21 @@ with <a href="https://kensakamot.github.io/">Kensuke Sakamoto</a>.<br>
     Ordinary least squares (OLS) estimators are widely used in network experiments to estimate spillover effects. We study the causal interpretation of, and inference for the OLS estimator under both design-based uncertainty from random treatment assignment and sampling-based uncertainty in network links. We show that correlations among regressors that capture the exposure to neighbors' treatments can induce contamination bias, preventing the OLS from aggregating heterogeneous spillover effects for clear causal interpretation. We derive the OLS estimator's asymptotic distribution and propose a network-robust variance estimator. Simulations and an empirical application demonstrate that contamination bias can be substantial, leading to inflated spillover estimates.
   </p>
 </details>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br>
 
 
@@ -96,17 +117,17 @@ With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a
 [<a href="https://github.com/">R Package</a>]<br>
 With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a href="https://users.ssc.wisc.edu/~xshi/">Xiaoxia Shi</a>.<br>
 [Draft coming soon]<br>
--->
+
 
 
 
 
 <br>
+-->
 
 
 
-
-#### <b>Publications</b>
+#### <b>Publication</b>
 <h5>
   <a href="https://yshimizu-econ.github.io/assets/pdf/NonparaCluster2025.pdf">Nonparametric Regression under Cluster Sampling</a>
 </h5>
