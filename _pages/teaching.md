@@ -18,7 +18,9 @@ nav_order: 3
 <br> 
 <small style="color: gray;">[evaluation 5.0/5.0]</small>
 <br> 
-<em><b>Juli Plant Grainger Outstanding Teaching Assistant Award</b>; <b>Distinguished Teaching Assistant</b>, Department of Economics</em>
+<em><b>Juli Plant Grainger Outstanding Teaching Assistant Award</b></em>
+<br>
+<em><b>Distinguished Teaching Assistant</b>, Department of Economics</em>
 <br>
 
 
