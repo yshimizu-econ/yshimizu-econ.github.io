@@ -18,13 +18,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 Hi! I am a Ph.D. candidate at the University of Wisconsin-Madison. My research interests are in the intersection of Econometrics, Causal Inference, and Machine Learning for applications in Applied Microeconomics. 
-<br>
-
-
-
-
-
-<br>
+<div style="height: 0.5em;"></div>
 
 <p class="text-center"><strong>I will be on the job market for the 2026-2027 academic year.</strong></p>
 
@@ -37,9 +31,7 @@ In my <a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" tar
 <br>
 -->
 
-
-
-<br>
+<div style="height: 0.5em;"></div>
 
 Email: [yuya.shimizu@wisc.edu](mailto:yuya.shimizu@wisc.edu)
 

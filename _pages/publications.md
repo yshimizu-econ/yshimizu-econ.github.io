@@ -25,7 +25,10 @@ nav_order: 1
 
 
 
-<br>
+
+
+
+
 
 #### <b>Working Papers</b>
 
@@ -86,11 +89,6 @@ With <a href="https://sites.google.com/site/gregoryfcox/" target="_blank" rel="n
 
 
 
-<br>
-
-
-
-
 <!--
 #### <b>Work in Progress</b>
 <h5>
@@ -128,7 +126,7 @@ With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a
 
 
 
-<br>
+
 
 
 
@@ -145,9 +143,6 @@ With <a href="https://k-ris.keio.ac.jp/html/100000523_en.html" target="_blank" r
 
 
 
-
-
-<br>
 
 
 

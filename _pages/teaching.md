@@ -25,7 +25,8 @@ nav_order: 3
 
 
 
-<br>
+
+
 
 #### University of Wisconsin-Madison (Grader)
 * Econ 711: Economic Theory-Microeconomics (Ph.D. Microeconomics), Fall 2022.
@@ -41,14 +42,20 @@ nav_order: 3
 <br>
 
 
-<br>
+
+
+
+
 
 #### Cabinet Office, Japan (TA)
 * Statistics and Data Analysis for Policy Making (Graduate-level), Summer 2018.
 <br>
 
 
-<br>
+
+
+
+
 
 #### Keio University (TA)
 * Independent Research Project C (Undergraduate thesis mentor for 7 students), Spring 2018, Fall 2018.
