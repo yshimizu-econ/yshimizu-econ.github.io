@@ -28,4 +28,4 @@ Hi! I am a Ph.D. candidate at the University of Wisconsin-Madison. My research i
 
 Email: yuya.shimizu@wisc.edu
 
-[<a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}">Job Market Paper</a> | <a href="{{ '/assets/pdf/CV_Yuya_Shimizu.pdf' | relative_url }}">CV</a> | <a href="https://scholar.google.com/citations?user=YB8k6cEAAAAJ&amp;hl=en">Google Scholar</a>]
+<p>[<a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}">Job Market Paper</a> &#124; <a href="{{ '/assets/pdf/CV_Yuya_Shimizu.pdf' | relative_url }}">CV</a> &#124; <a href="https://scholar.google.com/citations?user=YB8k6cEAAAAJ&amp;hl=en">Google Scholar</a>]</p>
