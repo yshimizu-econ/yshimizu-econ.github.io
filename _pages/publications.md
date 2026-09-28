@@ -9,7 +9,7 @@ nav_order: 1
 #### <b>Job Market Paper</b>
 
 <h5>
-     <a href="https://yshimizu-econ.github.io/assets/pdf/Shimizu_JMP_Embedding.pdf">Econometrics with Pre-Trained Embeddings for Unstructured Data</a>
+     <a href="https://yshimizu-econ.github.io/assets/pdf/Shimizu_JMP_Embedding.pdf" target="_blank" rel="noopener noreferrer">Econometrics with Pre-Trained Embeddings for Unstructured Data</a>
 </h5>
 [<b>Empirical Application in Progress</b>]<br>
 <small style="color: gray;">presentation: Econometric Society Interdisciplinary Frontiers Conference on Economics and AI+ML (Ithaca), Chicago Booth AI and Economics Summer Conference, Midwest Econometrics Group (Cincinnati, scheduled), Canadian Econometrics Study Group (Vancouver, scheduled), Southern Economic Association (Houston, scheduled)</small><br>
@@ -26,16 +26,16 @@ nav_order: 1
 
 
 
-
+<br>
 
 #### <b>Working Papers</b>
 
 <h5>
-     <a href="https://arxiv.org/abs/2506.22989">Design-Based and Network Sampling-Based Uncertainties in Network Experiments</a> 
+     <a href="https://arxiv.org/abs/2506.22989" target="_blank" rel="noopener noreferrer">Design-Based and Network Sampling-Based Uncertainties in Network Experiments</a>
 </h5>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
-with <a href="https://kensakamot.github.io/">Kensuke Sakamoto</a>.<br>
-<em>Revision Requested at Review of Economics and Statistics</em> <br>
+with <a href="https://kensakamot.github.io/" target="_blank" rel="noopener noreferrer">Kensuke Sakamoto</a>.<br>
+<em>Revision Requested at <b>Review of Economics and Statistics</b></em> <br>
 <details>
   <summary>Abstract</summary>
   <p>
@@ -45,29 +45,12 @@ with <a href="https://kensakamot.github.io/">Kensuke Sakamoto</a>.<br>
 <br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
-
-
-
-
 <h5>
-  <a href="https://arxiv.org/abs/2403.16413">Optimal Testing in a Class of Nonregular Models</a>
+  <a href="https://arxiv.org/abs/2403.16413" target="_blank" rel="noopener noreferrer">Optimal Testing in a Class of Nonregular Models</a>
 </h5>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
-with <a href="https://personal.lse.ac.uk/otsu/">Taisuke Otsu</a>.<br>
-<em>Revision Requested at Econometric Theory</em> <br>
+with <a href="https://personal.lse.ac.uk/otsu/" target="_blank" rel="noopener noreferrer">Taisuke Otsu</a>.<br>
+<em>Revision Requested at <b>Econometric Theory</b></em> <br>
 <details>
   <summary>Abstract</summary>
   <p>
@@ -79,10 +62,10 @@ with <a href="https://personal.lse.ac.uk/otsu/">Taisuke Otsu</a>.<br>
 
 
 <h5>
-     <a href="https://arxiv.org/abs/2510.27633">Testing Inequalities Linear in Nuisance Parameters</a> 
+     <a href="https://arxiv.org/abs/2510.27633" target="_blank" rel="noopener noreferrer">Testing Inequalities Linear in Nuisance Parameters</a>
 </h5>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
-With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a href="https://users.ssc.wisc.edu/~xshi/">Xiaoxia Shi</a>.<br>
+With <a href="https://sites.google.com/site/gregoryfcox/" target="_blank" rel="noopener noreferrer">Gregory Cox</a> and <a href="https://users.ssc.wisc.edu/~xshi/" target="_blank" rel="noopener noreferrer">Xiaoxia Shi</a>.<br>
 <details>
   <summary>Abstract</summary>
   <p>
@@ -129,11 +112,11 @@ With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a
 
 #### <b>Publication</b>
 <h5>
-  <a href="https://yshimizu-econ.github.io/assets/pdf/NonparaCluster2025.pdf">Nonparametric Regression under Cluster Sampling</a>
+  <a href="https://yshimizu-econ.github.io/assets/pdf/NonparaCluster2025.pdf" target="_blank" rel="noopener noreferrer">Nonparametric Regression under Cluster Sampling</a>
 </h5>
-<em>Journal of Econometrics (2025)</em> <br>
+<em><b>Journal of Econometrics</b> (2025)</em> <br>
 <em>Award: Kanematsu Prize 2023</em> <br>
-[<a href="https://arxiv.org/abs/2403.04766">arXiv</a> | <a href="https://github.com/yshimizu-econ/Nonparametric-Regression-under-Cluster-Sampling">R code</a>]<br>
+[<a href="https://arxiv.org/abs/2403.04766" target="_blank" rel="noopener noreferrer">arXiv</a> | <a href="https://github.com/yshimizu-econ/Nonparametric-Regression-under-Cluster-Sampling" target="_blank" rel="noopener noreferrer">R code</a>]<br>
 <details>
   <summary>Abstract</summary>
   <p>
@@ -153,11 +136,12 @@ With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a
 
 #### <b>Pre-Ph.D. Publication</b>
 <h5>
-  <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/sta4.241">Doubly Robust-type Estimation of Population Moments and Parameters in Biased Sampling</a>
+  <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/sta4.241" target="_blank" rel="noopener noreferrer">Doubly Robust-type Estimation of Population Moments and Parameters in Biased Sampling</a>
 </h5>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
-With <a href="https://k-ris.keio.ac.jp/html/100000523_en.html">Takahiro Hoshino</a>.<br>
-<em>Stat (2019)</em> <br>
+With <a href="https://k-ris.keio.ac.jp/html/100000523_en.html" target="_blank" rel="noopener noreferrer">Takahiro Hoshino</a>.<br>
+<em><b>Stat</b> (2019)</em>
+<br>
 
 
 
@@ -174,7 +158,6 @@ With <a href="https://k-ris.keio.ac.jp/html/100000523_en.html">Takahiro Hoshino<
 <h5>
   Imbens, G. W. and D. B. Rubin,
   “Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction,”
-  (<a href="https://www.asakura.co.jp/detail.php?book_code=12291">translation into Japanese</a>; responsible for Chapters 15 and 16)
+  (<a href="https://www.asakura.co.jp/detail.php?book_code=12291" target="_blank" rel="noopener noreferrer">translation into Japanese</a>; responsible for Chapters 15 and 16)
 </h5>
 <em>Asakura Publishing (2023)</em> <br>
-
