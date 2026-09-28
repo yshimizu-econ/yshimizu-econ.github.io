@@ -18,6 +18,13 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 Hi! I am a Ph.D. candidate at the University of Wisconsin-Madison. My research interests are in the intersection of Econometrics, Causal Inference, and Machine Learning for applications in Applied Microeconomics. 
+<br>
+
+
+
+
+
+<br>
 
 <p class="text-center"><strong>I will be on the job market for the 2026-2027 academic year.</strong></p>
 
