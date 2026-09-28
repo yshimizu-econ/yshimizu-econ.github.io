@@ -11,14 +11,14 @@ nav_order: 3
 <br> 
 <small style="color: gray;">[evaluation 4.7/5.0]</small>
 <br> 
-<em>Distinguished Teaching Assistant, Department of Economics</em>
+<em><b>Distinguished Teaching Assistant</b>, Department of Economics</em>
 <br> 
 
 * Econ 710: Economic Statistics and Econometrics II (Ph.D. Econometrics), Spring 2025.
 <br> 
 <small style="color: gray;">[evaluation 5.0/5.0]</small>
 <br> 
-<em>Juli Plant Grainger Outstanding Teaching Assistant Award; Distinguished Teaching Assistant, Department of Economics</em>
+<em><b>Juli Plant Grainger Outstanding Teaching Assistant Award</b>; <b>Distinguished Teaching Assistant</b>, Department of Economics</em>
 <br>
 
 
