@@ -146,7 +146,7 @@ With <a href="https://k-ris.keio.ac.jp/html/100000523_en.html" target="_blank" r
 
 
 
-
+<div style="height: 0.5em;"></div>
 
 #### <b>Translation Work</b>
 <h5>
