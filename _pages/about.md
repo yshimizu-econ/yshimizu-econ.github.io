@@ -25,7 +25,7 @@ Hi! I am a Ph.D. candidate at the University of Wisconsin-Madison. My research i
 
 <div style="height: 0.5em;"></div>
 
-In my <a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" style="text-decoration: underline;">Job Market Paper</a>, I develop theoretical foundations for incorporating numerical representations of images and text into econometric models and propose a novel bootstrap test for the workflow.
+In my <a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" style="text-decoration: underline;">Job Market Paper</a>, I develop theoretical foundations for incorporating numerical representations of images and text into econometric models and propose a new bootstrap test for the workflow.
 
 <!--
 * **Primary Interests:** Econometrics, Causal Inference, Machine Learning
