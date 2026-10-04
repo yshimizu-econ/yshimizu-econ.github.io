@@ -9,7 +9,7 @@ nav_order: 1
 #### <b>Job Market Paper</b>
 
 <h5>
-     <a href="https://yshimizu-econ.github.io/assets/pdf/Shimizu_JMP_Embedding.pdf" target="_blank" rel="noopener noreferrer">Econometrics with Pre-Trained Embeddings for Unstructured Data</a>
+     <a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Econometrics with Pre-Trained Embeddings for Unstructured Data</a>
 </h5>
 <small style="color: gray;">presentation: Econometric Society Interdisciplinary Frontiers Conference on Economics and AI+ML (Ithaca), Chicago Booth AI and Economics Summer Conference, Midwest Econometrics Group (Cincinnati, scheduled), Canadian Econometrics Study Group (Vancouver, scheduled), Southern Economic Association (Houston, scheduled)</small><br>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
@@ -109,7 +109,7 @@ With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a
 
 #### <b>Publication</b>
 <h5>
-  <a href="https://yshimizu-econ.github.io/assets/pdf/NonparaCluster2025.pdf" target="_blank" rel="noopener noreferrer">Nonparametric Regression under Cluster Sampling</a>
+  <a href="{{ '/assets/pdf/NonparaCluster2025.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Nonparametric Regression under Cluster Sampling</a>
 </h5>
 <em><b>Journal of Econometrics</b> (2025)</em> <br>
 <em>Award: Kanematsu Prize 2023</em> <br>
