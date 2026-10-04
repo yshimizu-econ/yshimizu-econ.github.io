@@ -13,7 +13,7 @@ nav_order: 1
 </h5>
 <small style="color: gray;">presentation: Econometric Society Interdisciplinary Frontiers Conference on Economics and AI+ML (Ithaca), Chicago Booth AI and Economics Summer Conference, Midwest Econometrics Group (Cincinnati, scheduled), Canadian Econometrics Study Group (Vancouver, scheduled), Southern Economic Association (Houston, scheduled)</small><br>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
-<!-- [<a href="https://arxiv.org/abs/2607.17378">arXiv</a>]<br> -->
+[<a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">latest draft</a>]&ensp;[<a href="https://arxiv.org/abs/2607.17378" target="_blank" rel="noopener noreferrer">arXiv version</a>]<br>
 <details>
   <summary>Abstract</summary>
   <p>
@@ -38,6 +38,7 @@ nav_order: 1
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
 with <a href="https://kensakamot.github.io/" target="_blank" rel="noopener noreferrer">Kensuke Sakamoto</a>.<br>
 <em>Revision Requested at <b>Review of Economics and Statistics</b></em> <br>
+[<a href="https://arxiv.org/abs/2506.22989" target="_blank" rel="noopener noreferrer">arXiv</a>]<br>
 <details>
   <summary>Abstract</summary>
   <p>
@@ -53,6 +54,7 @@ with <a href="https://kensakamot.github.io/" target="_blank" rel="noopener noref
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
 with <a href="https://personal.lse.ac.uk/otsu/" target="_blank" rel="noopener noreferrer">Taisuke Otsu</a>.<br>
 <em>Revision Requested at <b>Econometric Theory</b></em> <br>
+[<a href="https://arxiv.org/abs/2403.16413" target="_blank" rel="noopener noreferrer">arXiv</a>]<br>
 <details>
   <summary>Abstract</summary>
   <p>
@@ -68,6 +70,7 @@ with <a href="https://personal.lse.ac.uk/otsu/" target="_blank" rel="noopener no
 </h5>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
 With <a href="https://sites.google.com/site/gregoryfcox/" target="_blank" rel="noopener noreferrer">Gregory Cox</a> and <a href="https://users.ssc.wisc.edu/~xshi/" target="_blank" rel="noopener noreferrer">Xiaoxia Shi</a>.<br>
+[<a href="https://arxiv.org/abs/2510.27633" target="_blank" rel="noopener noreferrer">arXiv</a>]<br>
 <details>
   <summary>Abstract</summary>
   <p>
@@ -113,7 +116,7 @@ With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a
 </h5>
 <em><b>Journal of Econometrics</b> (2025)</em> <br>
 <em>Award: Kanematsu Prize 2023</em> <br>
-[<a href="https://arxiv.org/abs/2403.04766" target="_blank" rel="noopener noreferrer">arXiv</a> | <a href="https://github.com/yshimizu-econ/Nonparametric-Regression-under-Cluster-Sampling" target="_blank" rel="noopener noreferrer">R code</a>]<br>
+[<a href="https://arxiv.org/abs/2403.04766" target="_blank" rel="noopener noreferrer">arXiv</a>]&ensp;[<a href="https://github.com/yshimizu-econ/Nonparametric-Regression-under-Cluster-Sampling" target="_blank" rel="noopener noreferrer">R code</a>]<br>
 <details>
   <summary>Abstract</summary>
   <p>
