@@ -11,9 +11,12 @@ nav_order: 1
 <h5>
      <a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Econometrics with Pre-Trained Embeddings for Unstructured Data</a>
 </h5>
-<small style="color: gray;">presentation: Econometric Society Interdisciplinary Frontiers Conference on Economics and AI+ML (Ithaca), Chicago Booth AI and Economics Summer Conference, Midwest Econometrics Group (Cincinnati, scheduled), Canadian Econometrics Study Group (Vancouver, scheduled), Southern Economic Association (Houston, scheduled)</small><br>
+<em>Best Student Paper Award at the 2026 Midwest Econometrics Group (MEG) Conference
+</em> <br>
+<small style="color: gray;">presentation: Econometric Society Interdisciplinary Frontiers Conference on Economics and AI+ML (Ithaca), Chicago Booth AI and Economics Summer Conference, Midwest Econometrics Group (Cincinnati), Canadian Econometrics Study Group (Vancouver, scheduled), Southern Economic Association (Houston, scheduled)</small><br>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
-[<a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">latest draft</a>]&ensp;[<a href="https://arxiv.org/abs/2607.17378" target="_blank" rel="noopener noreferrer">arXiv version</a>]<br>
+[<a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">latest draft</a>]&ensp;
+[<a href="https://arxiv.org/abs/2607.17378" target="_blank" rel="noopener noreferrer">arXiv version</a>]<br>
 <details>
   <summary>Abstract</summary>
   <p>
@@ -115,8 +118,10 @@ With <a href="https://sites.google.com/site/gregoryfcox/">Gregory Cox</a> and <a
   <a href="{{ '/assets/pdf/NonparaCluster2025.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Nonparametric Regression under Cluster Sampling</a>
 </h5>
 <em><b>Journal of Econometrics</b> (2025)</em> <br>
-<em>Award: Kanematsu Prize 2023</em> <br>
-[<a href="https://arxiv.org/abs/2403.04766" target="_blank" rel="noopener noreferrer">arXiv</a>]&ensp;[<a href="https://github.com/yshimizu-econ/Nonparametric-Regression-under-Cluster-Sampling" target="_blank" rel="noopener noreferrer">R code</a>]<br>
+<em>Kanematsu Prize 2023</em> <br>
+[<a href="{{ '/assets/pdf/NonparaCluster2025.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">link</a>]&ensp;
+[<a href="https://arxiv.org/abs/2403.04766" target="_blank" rel="noopener noreferrer">arXiv version</a>]&ensp;
+[<a href="https://github.com/yshimizu-econ/Nonparametric-Regression-under-Cluster-Sampling" target="_blank" rel="noopener noreferrer">R code</a>]<br>
 <details>
   <summary>Abstract</summary>
   <p>
