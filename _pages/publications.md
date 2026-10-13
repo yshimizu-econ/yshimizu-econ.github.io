@@ -11,8 +11,9 @@ nav_order: 1
 <h5>
      <a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Econometrics with Pre-Trained Embeddings for Unstructured Data</a>
 </h5>
-<em>Best Student Paper Award at the 2026 Midwest Econometrics Group (MEG) Conference
-</em> <br>
+<em><b>Best Student Paper Award at the 2026 Midwest Econometrics Group (MEG) Conference</b></em>
+[<a href="https://midwesteconometrics.github.io/midwesteconometrics/awards/Yuya-Shimizu.pdf" target="_blank" rel="noopener noreferrer">award link</a>]
+<br>
 <small style="color: gray;">presentation: Econometric Society Interdisciplinary Frontiers Conference on Economics and AI+ML (Ithaca), Chicago Booth AI and Economics Summer Conference, Midwest Econometrics Group (Cincinnati), Canadian Econometrics Study Group (Vancouver, scheduled), Southern Economic Association (Houston, scheduled)</small><br>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
 [<a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">latest draft</a>]&ensp;
