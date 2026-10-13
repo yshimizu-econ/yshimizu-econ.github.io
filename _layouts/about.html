@@ -11,7 +11,14 @@ layout: default
           <p class="desc">{{ page.subtitle }}</p>
         </header>
 
-        <article>
+        <article class="about-content">
+          {% assign about_sections = content | split: '<!-- about-introduction-end -->' %}
+          {% if about_sections.size > 1 %}
+          <div class="about-profile-row{% if page.profile.links %} with-profile-links{% endif %}">
+            <div class="about-profile-text">
+              {{ about_sections.first }}
+            </div>
+          {% endif %}
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile.image %}
@@ -34,11 +41,22 @@ layout: default
               {{ page.profile.address }}
             </div>
             {%- endif %}
+            {% if about_sections.size == 1 %}
+              {% include profile_links.html %}
+            {% endif %}
           </div>
           {%- endif %}
+          {% if about_sections.size > 1 %}
+            {% include profile_links.html %}
+          </div>
+          {% endif %}
 
           <div class="clearfix">
-            {{ content }}
+            {% if about_sections.size > 1 %}
+              {{ about_sections.last }}
+            {% else %}
+              {{ content }}
+            {% endif %}
           </div>
 
           <!-- News -->
