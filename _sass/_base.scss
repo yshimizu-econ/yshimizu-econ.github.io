@@ -81,6 +81,57 @@ blockquote {
   text-align: center;
 }
 
+// About-page news
+
+.recent-updates {
+  margin-top: 2rem;
+
+  h2 {
+    margin-bottom: 1.25rem;
+    font-size: 1.75rem;
+  }
+}
+
+.recent-updates-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.recent-update-item {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  align-items: baseline;
+  gap: 1.25rem;
+
+  & + & {
+    margin-top: 1rem;
+  }
+}
+
+.recent-update-date {
+  justify-self: start;
+  color: var(--global-theme-color);
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1.65;
+  white-space: nowrap;
+}
+
+.recent-update-content {
+  p {
+    margin: 0;
+    line-height: 1.65;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .recent-update-item {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.35rem;
+  }
+}
+
 // Card
 
 .card {
