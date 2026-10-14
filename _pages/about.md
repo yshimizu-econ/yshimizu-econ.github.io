@@ -73,8 +73,14 @@ In my <a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" tar
 <div style="height: 4em;"></div>
 
 <section class="recent-updates" aria-labelledby="recent-update">
-  <h2 id="recent-update">Recent Update</h2>
+  <h2 id="recent-update">Recent Updates</h2>
   <ul class="recent-updates-list">
+    <li class="recent-update-item">
+      <time class="recent-update-date" datetime="2026-10-14">Oct 14, 2026</time>
+      <div class="recent-update-content">
+        <p>I have updated my <a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Job Market Paper</a>.</p>
+      </div>
+    </li>
     <li class="recent-update-item">
       <time class="recent-update-date" datetime="2026-10-10">Oct 10, 2026</time>
       <div class="recent-update-content">
