@@ -57,7 +57,7 @@ with <a href="https://kensakamot.github.io/" target="_blank" rel="noopener noref
 </h5>
 <!-- [<a href="https://github.com/">R Package</a>]<br> -->
 with <a href="https://personal.lse.ac.uk/otsu/" target="_blank" rel="noopener noreferrer">Taisuke Otsu</a>.<br>
-<em>Revision Requested at <b>Econometric Theory</b></em> <br>
+<em>Revision Requested at <b>Econometric Theory</b></em> (2nd round) <br>
 [<a href="https://arxiv.org/abs/2403.16413" target="_blank" rel="noopener noreferrer">arXiv</a>]<br>
 <details>
   <summary>Abstract</summary>
