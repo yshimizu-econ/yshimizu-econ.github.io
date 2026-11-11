@@ -76,7 +76,7 @@ In my <a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" tar
   <h2 id="recent-update">Recent Updates</h2>
   <ul class="recent-updates-list">
     <li class="recent-update-item">
-      <time class="recent-update-date" datetime="2026-11-10">Nov 10, 2026</time>
+      <time class="recent-update-date" datetime="2026-11-11">Nov 11, 2026</time>
       <div class="recent-update-content">
         <p>I have updated my <a href="{{ '/assets/pdf/Shimizu_JMP_Embedding.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Job Market Paper</a>.</p>
       </div>
